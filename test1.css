@@ -4,6 +4,7 @@ body{
 }
 .demo{
     font-size: 2rem;
+<<<<<<< HEAD
     width: 200px;
     height: 200px;
     background-color: crimson;
@@ -13,4 +14,9 @@ body{
     align-items: center;
     box-shadow: 0 4px 15px lightgreen;
     border-radius: 8px;
+=======
+}
+h1{
+    text-shadow: 5px 4px #333;
+>>>>>>> chang_style
 }
