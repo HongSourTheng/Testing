@@ -4,4 +4,13 @@ body{
 }
 .demo{
     font-size: 2rem;
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 15px lightgreen;
+    border-radius: 8px;
 }
